@@ -1,0 +1,7 @@
+{
+  "name": "TrustLens",
+  "description": "An AI-powered cybersecurity awareness assistant for small businesses to analyze suspicious emails, messages, and links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
